@@ -1,7 +1,7 @@
 name: Build Repo Listing
 
 env:
-  CurrentPackageName: com.vrchat.demo-template
+  CurrentPackageName: com.djfbrnkek.poi-pro-7.3.50-to-8.2.030
   listPublishDirectory: Website
   pathToCi: ci
   
