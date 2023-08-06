@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
 
 env:
-  packageName: "com.vrchat.demo-template"
+  packageName: "com.djfbrnkek.poi-pro-7.3.50-to-8.2.030"
 
 permissions:
   contents: write
